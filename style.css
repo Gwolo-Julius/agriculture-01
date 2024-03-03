@@ -1242,4 +1242,8 @@ textarea {
   .container__modified {
     flex-direction: column;
   }
+
+  .footer__right {
+    flex-direction: column;
+  }
 }
