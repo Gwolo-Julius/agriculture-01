@@ -1022,6 +1022,11 @@ textarea {
   .container__modified {
     flex-direction: column;
   }
+  .footer__right {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 /* ========= MEDIA QUERIES TABLETS SECTION =========*/
@@ -1243,7 +1248,9 @@ textarea {
     flex-direction: column;
   }
 
-  .footer__right {
+  /* .footer__right {
+    width: 90%;
+    display: flex;
     flex-direction: column;
-  }
+  } */
 }
